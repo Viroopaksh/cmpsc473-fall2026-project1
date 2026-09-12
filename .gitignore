@@ -1,0 +1,21 @@
+# Executables / objects
+*.o
+pointer/pointer
+debug/debug
+address-space/address-space
+memory-bugs/memory-bugs
+processes/parent
+processes/child
+build/stats
+
+# Debug/runtime artifacts
+core
+core.*
+*.log
+
+# Editor/OS junk
+*~
+.DS_Store
+*.dSYM/
+.vscode/
+.idea/
